@@ -1,0 +1,25 @@
+{
+  "name": "truffle-drizzle-tutorial",
+  "version": "0.0.1",
+  "description": "Tutorial to build dApp with truffle and drizzle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/modolee/truffle-drizzle-tutorial.git"
+  },
+  "keywords": [
+    "dapp",
+    "truffle",
+    "drizzle"
+  ],
+  "author": "modolee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/modolee/truffle-drizzle-tutorial/issues"
+  },
+  "homepage": "https://github.com/modolee/truffle-drizzle-tutorial#readme",
+  "dependencies": {}
+}
